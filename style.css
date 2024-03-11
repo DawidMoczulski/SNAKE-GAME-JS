@@ -1,0 +1,26 @@
+html, body {
+    height: 100%;
+    margin: 0;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+h1{
+
+    margin-left: 25%;
+    margin-right: 25%;
+    font-size: 60px;
+
+}
+
+/* 
+div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} */
